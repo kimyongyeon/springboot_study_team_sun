@@ -30,17 +30,17 @@
 book : http://www.yes24.com/24/goods/19720776?scode=032&OzSrank=1
 
 - tool 정리
-repl : https://repl.it/languages/java
-intellij : https://www.jetbrains.com/idea/#chooseYourEdition
-key : http://idea.qinxi1992.cn/
-git : https://github.com/kimyongyeon/springboot_study_team_sun
-git download : https://git-scm.com/
-source tree: https://www.sourcetreeapp.com/
-pdf : http://naver.me/xbD64wus
-springboot : https://projects.spring.io/spring-boot/
-springboot template : https://start.spring.io/
-java 1.8 download : http://www.oracle.com/technetwork/java/javase/downloads/index.html
-tomcat 8 download : http://tomcat.apache.org/download-80.cgi
-gradle download : https://gradle.org/gradle-download/
-maven download : https://maven.apache.org/download.cgi
+- repl : https://repl.it/languages/java
+- intellij : https://www.jetbrains.com/idea/#chooseYourEdition
+- key : http://idea.qinxi1992.cn/
+- git : https://github.com/kimyongyeon/springboot_study_team_sun
+- git download : https://git-scm.com/
+- source tree: https://www.sourcetreeapp.com/
+- pdf : http://naver.me/xbD64wus
+- springboot : https://projects.spring.io/spring-boot/
+- springboot template : https://start.spring.io/
+- java 1.8 download : http://www.oracle.com/technetwork/java/javase/downloads/index.html
+- tomcat 8 download : http://tomcat.apache.org/download-80.cgi
+- gradle download : https://gradle.org/gradle-download/
+- maven download : https://maven.apache.org/download.cgi
 
