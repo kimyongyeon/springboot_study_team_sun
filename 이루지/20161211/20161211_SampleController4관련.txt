@@ -1,0 +1,14 @@
+--부가 설명(20161212)
+
+SampleController4.java 파일에서
+
+addFlashAttribute에 msg변수에 값을 넘겨주었을때
+
+log를 찍지 못하였는데
+
+view(jsp)단에서 테스트시에는 msg변수값이 제대로 나오는 것을
+확인하였습니다.
+
+
+addFlashAttribute를 통해서 controller에는 변수값을 넘겨주지 
+못하지만 view에는 변수값을 넘겨주는 것을 확인했습니다.
